@@ -7,6 +7,7 @@ from multiprocessing import Process
 # 访问服务端的地址
 ADDR = ("121.5.90.43", 8888)
 
+# 对它进行一些修改_本地
 
 # 请求进入
 def login(sock):
